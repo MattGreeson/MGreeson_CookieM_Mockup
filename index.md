@@ -1,37 +1,120 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MattGreeson/MGreeson_CookieM_Mockup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title>Matt Greeson CM Mockup</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
 
-### Markdown
+</head>
+<style>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700|Open+Sans:400italic);
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+body {
+    font-family:Source Sans Pro;
+  font-size:12px;
+  margin: 0 auto;
+}
 
-- Bulleted
-- List
+.footer {
+    margin-top: 20px;
+    padding: 20px 0;
+    text-align: center;
+	font-size:12px;
+}
 
-1. Numbered
-2. List
+.notes {
+	font-size:12px;
+font-family:'Droid Sans';
+	line-height:20px;
+}
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+</style>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    <!--[if IE]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+<div id="consent_blackbar"></div>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MattGreeson/MGreeson_CookieM_Mockup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<table width="700" bgcolor="#318fb5" align="center">
 
-### Support or Contact
+<tr>
+<td width="100"><img src="https://consent.trustarc.com/get?name=TrustArc_notagline.png" style="padding: 8px;
+    background: white;
+    border-radius: 3px;
+    margin: 4px;
+    width: 100px;
+"></td>
+<td><b style="font-size:24px; font-family:Source Sans Pro; color:#ffffff;">Matt Greeson</b>
+<br><span style="font-size:24px; font-family:Source Sans Pro; color:#ffffff;">Consent Manager Mockup</span></td>
+</tr>
+</table>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<table width="700" style="padding: 25px 25px 250px 25px" align="center">
+
+
+<tr>
+<td>
+
+
+
+
+
+
+<br>
+<br>
+<p> Behavior is expressed for testing purposes.</p>
+<br>
+<br>
+
+
+</td>
+</tr>
+
+
+</table>
+
+
+
+
+
+
+<table width="700" align="center" class="footer">
+
+
+
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+
+<tr>
+<td>
+<a href="http://www.trustarc.com" target="_blank">About TrustArc</a> | <a href="https://www.trustarc.com/privacy-policy/" target="_blank">Privacy Policy</a> | <a href="https://www.trustarc.com/terms-of-service/" target="_blank">Terms of Service</a><footer>
+	<div id="teconsent_blackbar"></div>
+	<div id='teconsent'>
+	  <script type="text/javascript" crossorigin src="//consent.truste.com/notice?domain=mattgreeson.com&c=teconsent&country=fr"></script></div>
+
+</td>
+</tr>
+
+<tr>
+<td>
+<b>&#169; TrustArc Internet Privacy and Security for Businesses.</b>
+</td>
+</tr>
+
+</table>
+
+  </body>
+</html>
